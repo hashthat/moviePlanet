@@ -1,6 +1,8 @@
 🎥 Movie Planet User Guide!
 
-Welcome to the TMDB Movie Finder application! This tool allows you to search for movies from a comprehensive dataset and discover top-rated movie recommendations. Follow the steps below to make the most out of this application:
+To find the data to download, go to https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies and place TMDB_movie_dataset_v11.csv file into the moviePlanet folder. This way the information of the dataset is the most current version for the script to run and review the information for the pandas search through the application. This way the user is always up to date with such a large file (1M+ movie reviews!)
+
+Welcome to the Movie Planet application! This tool allows you to search for movies from a comprehensive dataset and discover top-rated movie recommendations. Follow the steps below to make the most out of this application:
 📋 Features:
 
     Movie Search:
